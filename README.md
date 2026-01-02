@@ -1,4 +1,4 @@
-House Price Prediction | Machine Learning Project
+House Price Prediction | Machine Learning Project       Demo Link: https://house-price-prediction-1527.streamlit.app/
 
 An end-to-end Machine Learning regression project that predicts house prices using Linear Regression, Ridge Regression, and Lasso Regression.
 The project covers data preprocessing, model training, evaluation, comparison, serialization, and deployment using Streamlit.
